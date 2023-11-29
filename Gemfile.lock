@@ -128,8 +128,8 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     latex-decode (0.4.0)
-    libv8-node (18.16.0.0-aarch64-linux)
-    libv8-node (18.16.0.0-x86_64-linux)
+    libv8-node (15.14.0.1-aarch64-linux)
+    libv8-node (15.14.0.1-x86_64-linux)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -140,8 +140,8 @@ GEM
     matrix (0.4.2)
     mercenary (0.4.0)
     mini_mime (1.1.5)
-    mini_racer (0.8.0)
-      libv8-node (~> 18.16.0.0)
+    mini_racer (0.4.0)
+      libv8-node (~> 15.14.0.0)
     minitest (5.20.0)
     multi_xml (0.6.0)
     mutex_m (0.2.0)
@@ -200,7 +200,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
-  mini_racer
+  mini_racer (= 0.4.0)
   unicode_utils
   webrick
 

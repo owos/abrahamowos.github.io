@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Machine Learning research engineer. My journey in machine learning has been a deep dive into the multifaceted realms of low-resource NLP, multilinguality, and speech technologies. One of my most profound research pursuits revolves around the recognition and enhancement of African accents in speech technology, addressing the gaps and nuances often overlooked in mainstream studies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My contributions to the AI research community are extensive and varied. With a flair for integrating cutting-edge techniques, I've explored the linguistic intricacies of African accents for zero-shot ASR adaptation, developed recommender systems that dynamically gauge model compatibility with language samples, and established baseline models for over 360 languages across a plethora of tasks. My works have found acclaim in revered platforms such as EMNLP and ICLR.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond the technical realms of my research, I harbor a deep passion for building and nurturing open science communities. I firmly believe in democratizing access to knowledge, fostering collaborative ecosystems, and championing the ethos of shared discovery. It's this fusion of innovative research and community-driven passion that defines my journey in AI. 

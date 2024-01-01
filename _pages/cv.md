@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: cv 
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Abraham_Owodunni_s_CV.pdf
+description:  Explore my CV, showcasing my journey in Machine Learning research with a focus on Natural Language Processing and Speech Technology.
 toc:
   sidebar: left
 ---

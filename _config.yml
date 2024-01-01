@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://owos.github.io # the base hostname & protocol for your site
-baseurl: /owos # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -67,44 +67,44 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-x_username: # your X handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
-zotero_username: # your zotero username
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+github_username: owos
+#gitlab_username: # your GitLab user name
+x_username: abrahamowos
+#mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: abraham-owodunni # your LinkedIn user name
+#telegram_username: # your Telegram user name
+scholar_userid: yW-2hooAAAAJ
+#semanticscholar_id: # your Semantic Scholar ID
+#whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+#orcid_id: 0000-0002-2561-256X
+#medium_username: # your Medium username
+##quora_username: # your Quora username
+#publons_id: # your ID on Publons
+#lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+#osf_id: # your OSF ID
+#research_gate_profile: # your profile on ResearchGate
+#scopus_id: # your profile on Scopus
+#blogger_url: # your blogger URL
+#work_url: # work page URL
+#keybase_username: # your keybase user name
+#wikidata_id: # your wikidata id
+#wikipedia_id: # your wikipedia id (Case sensitive)
+#dblp_url: # your DBLP profile url
+#stackoverflow_id: # your stackoverflow id
+#kaggle_id: # your kaggle id
+#lastfm_id: # your lastfm id
+#spotify_id: # your spotify id
+#pinterest_id: # your pinterest id
+#unsplash_id: # your unsplash id
+#instagram_id: # your instagram id
+#facebook_id: # your facebook id
+#youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+#discord_id: # your discord id (18-digit unique numerical identifier)
+#zotero_username: # your zotero username
+#wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Hey you can best reach me via email or Twitter. Be sure to checkout my news page.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Rebuttals # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: The title of the blog is Rebuttals and the page is still under construction, please check back later.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -147,16 +147,16 @@ giscus:
   emit_metadata: 0
   lang: en
 
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+# # Disqus comments (DEPRECATED)
+# disqus_shortname: al-folio # put your disqus shortname
+# # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# # External sources.
+# # If you have blog posts published on medium.com or other external sources,
+# # you can display them in your blog by adding a link to the RSS feed.
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -178,7 +178,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -263,8 +263,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+# display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Owodunni]
+  first_name: [Abraham, T.]
 
   style: apa
   locale: en

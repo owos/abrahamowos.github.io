@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at DevFest Abuja titled "DevFest Abuja 2023, topic is "Growing AI Talents with Open Science Communities". [Slides](https://docs.google.com/presentation/d/1dWAmEhbv8147_PjSAjKgSq62N7ABsqySnIsjMR3bG4s)
+I gave a talk at DevFest Abuja titled "Growing AI Talents with Open Science Communities". [Slides](https://docs.google.com/presentation/d/1dWAmEhbv8147_PjSAjKgSq62N7ABsqySnIsjMR3bG4s)

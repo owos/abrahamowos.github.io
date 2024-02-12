@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an independent research at [Masakhane](https://www.masakhane.io/), an open science community where Africans do AI research for Africa. I am primarily interested in investigating novel ways to develop **robust** **multilingual** models in **resource-constrained** settings, particularly  using **efficient** ML techniques. 
+I am an independent researcher at [Masakhane](https://www.masakhane.io/), an open science community where Africans do AI research for Africa. I am primarily interested in investigating novel ways to develop **robust** **multilingual** models in **resource-constrained** settings, particularly  using **efficient** ML techniques. 
 
 Also, I am a research engineer at [IntronHealth](https://www.intron.io/). At IntronHealth, I work on creating  speech technologies to African  accents and languages (including MENA). This includes Automatic Speech Recognition and Text-to-Speech systems. In lieu with my research interest, I also work robustness and examining the tradeoff between multilinguality and performance. Take a look at my CV for more details about my work with IntronHealth.
 

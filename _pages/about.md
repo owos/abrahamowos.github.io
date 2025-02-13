@@ -24,6 +24,5 @@ I am also an independent researcher at [Masakhane](https://www.masakhane.io/), a
 
 Beyond the technical aspect of research, I worked on creating national AI policies within Nigerian and Africa, I enjoy mentoring new folks that are interested in getting into AI research and I love building and nurturing open science ML communities. You'll find me around [Sisonke Biotik](https://www.sisonkebiotik.africa/), [ML Collective](https://mlcollective.org/), Cohere4AI and a few others. I firmly believe in democratizing access to knowledge, fostering collaborative ecosystems, and championing the ethos of shared discovery. 
 
-If I'm not doing AI research, you can find me playing Pool, Lawn and Table Tennis (I suck at both though), reading books and listening podcasts.
-#### Podcast recommendations: 
-- [How To Take Over The World](https://www.takeoverpod.com/)
+If I'm not doing AI research, you can find me playing Pool, Lawn and Table Tennis (I suck at both though), reading books and listening to podcasts.
+<b>Podcast recommendations:</b> [How To Take Over The World](https://www.takeoverpod.com/)
